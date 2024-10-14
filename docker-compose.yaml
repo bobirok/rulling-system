@@ -1,0 +1,9 @@
+services:
+  rulling-system:
+    build:
+      context: .
+      dockerfile: Docker/Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env

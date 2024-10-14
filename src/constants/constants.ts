@@ -1,0 +1,9 @@
+export const CONFIG_CLIENT = "configClient";
+export const LOG_CLIENT = "logClient";
+export const TRANSACTION_CLIENT = "transactionClient";
+export const CONFIG_SERVICE = "configService";
+export const TRANSACTION_SERVICE = "transactionService";
+export const TRANSACTION_MONITOR_SERVICE = "transactionMonitorService";
+export const LOG_SERVICE = "logService";
+export const LOG_CONTROLLER = "logController";
+export const CONFIG_CONTROLLER = "configController";
